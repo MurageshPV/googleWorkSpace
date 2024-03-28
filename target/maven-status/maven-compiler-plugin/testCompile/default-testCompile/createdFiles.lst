@@ -1,0 +1,6 @@
+com\workSpace\pages\signUpPage.class
+com\workSpace\pages\WorkSpaceHomePage.class
+com\workSpace\pages\BaseTest.class
+com\workSpace\utitlity\BrowserFactory.class
+com\workSpace\testcases\GoogleWorkSpace.class
+com\workSpace\utitlity\ConfigDataProvider.class
