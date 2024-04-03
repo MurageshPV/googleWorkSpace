@@ -20,7 +20,6 @@ public class WorkSpaceHomePage extends BaseTest {
 
 	public WorkSpaceHomePage(WebDriver driver) {
 		PageFactory.initElements(driver, this);
-		this.driver = driver;
 	}
 
 	public void freeTrailisDisplay() {
